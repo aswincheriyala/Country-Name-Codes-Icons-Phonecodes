@@ -1,6 +1,6 @@
 # Country-Name-Codes-Icons-Phonecodes
 Array of country details.(Name, Map, Code, Country code)
-
+```
 const data = [
   {
     code: 'AF', map: '🇦🇫', phoneCode: 93, value: 'Afghanistan',
@@ -608,6 +608,5 @@ const data = [
   {
     code: 'ZW', map: '🇿🇼', phoneCode: 26, value: 'Zimbabwe',
   }];
-
 
 export default data;
